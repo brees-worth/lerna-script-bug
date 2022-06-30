@@ -1,0 +1,15 @@
+{
+  "name": "nx-npm-script-name-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lerna run script:with:colon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^5.1.6",
+    "nx": "^14.3.6"
+  }
+}

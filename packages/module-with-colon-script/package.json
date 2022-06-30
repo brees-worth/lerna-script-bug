@@ -1,0 +1,12 @@
+{
+  "name": "@mybug/module-with-colon-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script:with:colon": "echo This Works!",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
